@@ -1,0 +1,60 @@
+.div1 {
+
+    height: 570px;
+    width: 900px;
+    background-image: url('fb-game-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    border: 4px solid black;
+    margin-left: 13%;
+    margin-top: 2%;
+    overflow: hidden;
+    position: re;
+
+
+}
+
+
+.btnGroup{
+    margin-top: 30%;
+    margin-left: 38%;
+    
+    
+}
+.btn{
+    font-size: 20px;
+    border-radius: 10px;
+    
+    
+}
+
+
+.computerScore{
+    margin-top: 0%;
+    margin-left: 1%;
+}
+
+.computerChoice{
+    margin-left: 45.5%;
+    color: red;
+}
+.userChoice{
+    margin-left: 29.5%;
+    margin-top: 1%;
+    position: absolute;
+    color: yellow;
+    
+
+}
+.yourScore{
+    margin-top: -5%;
+    margin-left: 80%;
+}
+
+.result{
+    margin-left: 30%;
+    margin-top: 10%;
+    position: absolute;
+    
+}
